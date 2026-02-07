@@ -1,0 +1,71 @@
+{
+  "generation_timestamp": "2026-02-07T15:32:21.752094",
+  "summary": {
+    "total_mentions": 1400
+  },
+  "top_topics": [
+    {
+      "topic": "general_mention",
+      "mention_count": 675,
+      "percentage": 48.21
+    },
+    {
+      "topic": "price_value",
+      "mention_count": 174,
+      "percentage": 12.43
+    },
+    {
+      "topic": "smell_fragrance",
+      "mention_count": 118,
+      "percentage": 8.43
+    },
+    {
+      "topic": "moisturizing",
+      "mention_count": 88,
+      "percentage": 6.29
+    },
+    {
+      "topic": "skin_reaction",
+      "mention_count": 80,
+      "percentage": 5.71
+    },
+    {
+      "topic": "hair_care",
+      "mention_count": 72,
+      "percentage": 5.14
+    },
+    {
+      "topic": "customer_service",
+      "mention_count": 70,
+      "percentage": 5.0
+    },
+    {
+      "topic": "product_quality",
+      "mention_count": 70,
+      "percentage": 5.0
+    },
+    {
+      "topic": "longevity",
+      "mention_count": 53,
+      "percentage": 3.79
+    }
+  ],
+  "sentiment_distribution": {
+    "positive": 559,
+    "negative": 416,
+    "neutral": 425
+  },
+  "platform_distribution": {
+    "Twitter": 440,
+    "Instagram": 287,
+    "Facebook": 261,
+    "Amazon": 141,
+    "Jumia": 140,
+    "Noon": 131
+  },
+  "language_distribution": {
+    "ar": 812,
+    "en": 588
+  },
+  "alerts": []
+}
